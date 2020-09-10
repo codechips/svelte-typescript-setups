@@ -32,12 +32,12 @@ The app might be simple, maybe even naïve, but it has a few interesting parts.
 
 ## Bundlers
 
-- Vite DONE
+- Vite (DONE) - [Is Vite currently the best bundler for Svelte?](https://codechips.me/svelte-with-vitejs-typescript-tailwind/)
+- Svite (DONE) -[Svelte, PostCSS and Typescript with Svite bundler](https://codechips.me/svelte-postcss-and-typescript-with-svite/)
 - Snowpack TODO
 - Rollup TODO
-- Svite TODO
 
 ## There is more!
 
-For more interesting stuff like this follow me on [Twitter](https://twitter.com/codechips) or check out my blog https://codechips.me
+For more interesting stuff like this follow me on [Twitter](https://twitter.com/codechips) or check out my blog at [codechips.me](https://codechips.me).
 
