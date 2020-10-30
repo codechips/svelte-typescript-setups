@@ -4,7 +4,7 @@
 
 ## Motivation
 
-I am on the quest to find the best bundler for Svelte. Why? Because my development time is expensive. When writing code I want a tight feedback loop, easy setup and configuration, flexibility and small and efficient bundle size.
+I am on the quest to find the best bundler for Svelte. Why? Because development time is expensive. When writing code I want a tight feedback loop, easy setup and configuration, flexibility and small and efficient bundle size.
 
 ## My Requirements
 
@@ -19,7 +19,7 @@ I am on the quest to find the best bundler for Svelte. Why? Because my developme
 
 For the purpose of testing I created a simple Svelte app. Its functionality is simple. You press a button and it fetches a random Kanye West tweet from [Kanye as a Service](https://kanye.rest/).
 
-![Kanye Says app screenshot](https://res.cloudinary.com/codechips/image/upload/v1598252607/kanye-says-app_rup4n6.webp)
+![Kanye Says app screenshot](https://res.cloudinary.com/codechips/image/upload/v1598252607/kanye-says-app_rup4n6.png)
 
 The app might be simple, maybe even naïve, but it has a few interesting parts.
 
@@ -34,8 +34,7 @@ The app might be simple, maybe even naïve, but it has a few interesting parts.
 
 - Vite (DONE) - [Is Vite currently the best bundler for Svelte?](https://codechips.me/svelte-with-vitejs-typescript-tailwind/)
 - Svite (DONE) -[Svelte, PostCSS and Typescript with Svite bundler](https://codechips.me/svelte-postcss-and-typescript-with-svite/)
-- Snowpack TODO
-- Rollup TODO
+- Snowpack (DONE) - [Snowpack for Svelte development revisited](https://codechips.me/snowpack-for-svelte-revisited/)
 
 ## There is more!
 
