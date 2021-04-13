@@ -35,6 +35,7 @@ The app might be simple, maybe even naïve, but it has a few interesting parts.
 - Vite (DONE) - [Is Vite currently the best bundler for Svelte?](https://codechips.me/svelte-with-vitejs-typescript-tailwind/)
 - Svite (DONE) -[Svelte, PostCSS and Typescript with Svite bundler](https://codechips.me/svelte-postcss-and-typescript-with-svite/)
 - Snowpack (DONE) - [Snowpack for Svelte development revisited](https://codechips.me/snowpack-for-svelte-revisited/)
+- Webpack (DONE) - [Why Webpack 5 is the best bundler for Svelte](https://codechops.me/svelte-and-webpack-5/)
 
 ## There is more!
 
